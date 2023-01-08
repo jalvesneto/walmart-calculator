@@ -1,24 +1,5 @@
 # walmart-calcuator
 
-## Project setup
-```
-npm install
-```
+Uma interface mal feita, feia, simple e provavelmente não usual, feita em Vue utilizando Vuetify, para utilizar quando vou ao mercado com minha esposa.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://calculadoradomercado.netlify.app/

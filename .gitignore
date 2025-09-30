@@ -4,6 +4,7 @@ node_modules
 
 
 # local env files
+.env
 .env.local
 .env.*.local
 
@@ -21,3 +22,14 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Local Netlify folder
+# .netlify
+
+# walmart-calculator-firebase.json
+
+# Local Netlify folder
+.netlify
+
+# firebase
+walmart-calculator-firebase.json
